@@ -1,3 +1,6 @@
+# redux-toolkit
+This repository is for learning purpose. Understand the concept of state management, Use store, actions and reducers in React
+
 # Redux Toolkit
 
 #### React Course
